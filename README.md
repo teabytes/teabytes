@@ -5,7 +5,6 @@
 <h3 align="center">An enthusiastic and dedicated explorer of the Python & Machine Learning cosmos.</h3>
 
 &ensp;
-<p></p>
 
 🔭 I’m currently working on **LLMs with a focus on Natural Language Understanding**
 
@@ -17,7 +16,7 @@
 - Email: **aarti.lad@gmail.com**
 - LinkedIn: [Aarti Lad](https://www.linkedin.com/in/aartilad)
 - Instagram: [tismeaarti](https://instagram.com/tismeaarti)
-- 
+
 <p></p>
 &ensp;
 <p></p>

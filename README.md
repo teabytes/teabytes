@@ -1,5 +1,3 @@
-![MasterHead](https://cdn.dribbble.com/users/32512/screenshots/4787574/media/a09498a031ca1ff7800766ccb226470a.gif)
-
 ![a09498a031ca1ff7800766ccb226470a](https://github.com/teabytes/teabytes/assets/120771285/8f960466-0de2-4959-b5f5-3c657a54d84b)
 
 

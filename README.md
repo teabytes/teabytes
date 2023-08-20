@@ -15,7 +15,6 @@
 ## 📫 Let's Connect
 - Email: **aarti.lad@gmail.com**
 - LinkedIn: [Aarti Lad](https://www.linkedin.com/in/aartilad)
-- Instagram: [tismeaarti](https://instagram.com/tismeaarti)
 
 <p></p>
 &ensp;

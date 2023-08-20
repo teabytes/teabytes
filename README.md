@@ -5,14 +5,13 @@
 <h3 align="center">An enthusiastic and dedicated explorer of the Python & Machine Learning cosmos.</h3>
 
 
-- 🔭 I’m currently working on **LLMs with a focus on Natural Language Understanding**
+🔭 I’m currently working on **LLMs with a focus on Natural Language Understanding**
 
 
 ## 📫 Let's Connect
 - Email: **aarti.lad@gmail.com**
-<p align="left">
-<a href="https://linkedin.com/in/aartilad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aartilad" height="30" width="40" /></a>
-<a href="https://instagram.com/tismeaarti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tismeaarti" height="30" width="40" /></a>
+- LinkedIn: [Aarti Lad](https://www.linkedin.com/in/aartilad)
+- Instagram: [tismeaarti](https://instagram.com/tismeaarti)
 
 
 ## 🛠️ Languages & Tools
@@ -43,4 +42,6 @@
   </a>
 </p>
 
+
+## 📊 Github Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=teabytes&show_icons=true&locale=en" alt="teabytes" /></p>

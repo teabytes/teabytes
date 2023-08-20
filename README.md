@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/70/eb/0b/70eb0b53eb57c91db403928c5d02a19a.gif)
+![MasterHead](https://cdn.dribbble.com/users/32512/screenshots/4787574/media/a09498a031ca1ff7800766ccb226470a.gif)
 
 <h1 align="center">Hi, I'm Aarti 👋</h1>
 <h3 align="center">An enthusiastic and dedicated explorer of the Python & Machine Learning cosmos.</h3>

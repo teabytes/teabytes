@@ -3,16 +3,24 @@
 
 <h1 align="center">Hi, I'm Aarti 👋</h1>
 <h3 align="center">An enthusiastic and dedicated explorer of the Python & Machine Learning cosmos.</h3>
+
 &ensp;
+<p></p>
 
 🔭 I’m currently working on **LLMs with a focus on Natural Language Understanding**
+
+<p></p>
 &ensp;
+<p></p>
 
 ## 📫 Let's Connect
 - Email: **aarti.lad@gmail.com**
 - LinkedIn: [Aarti Lad](https://www.linkedin.com/in/aartilad)
 - Instagram: [tismeaarti](https://instagram.com/tismeaarti)
+- 
+<p></p>
 &ensp;
+<p></p>
 
 ## 🛠️ Languages & Tools
 <p align="left">
@@ -41,7 +49,9 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
 </p>
+
 &ensp;
+<p></p>
 
 ## 📊 Github Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=teabytes&show_icons=true&locale=en" alt="teabytes" /></p>

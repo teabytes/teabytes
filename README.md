@@ -6,18 +6,18 @@
 <h1 align="center">Hi, I'm Aarti 👋</h1>
 <h3 align="center">An enthusiastic and dedicated explorer of the Python & Machine Learning cosmos.</h3>
 
+
 - 🔭 I’m currently working on **LLMs with a focus on Natural Language Understanding**
 
-## 📫 How to reach me
-- Email: **aarti.lad@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+## 📫 Let's Connect
 - Email: **aarti.lad@gmail.com**
+<p align="left">
 <a href="https://linkedin.com/in/aartilad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aartilad" height="30" width="40" /></a>
 <a href="https://instagram.com/tismeaarti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tismeaarti" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/teabytes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="teabytes" height="30" width="40" /></a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">

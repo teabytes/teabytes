@@ -1,4 +1,4 @@
-![MasterHead](https://www.livewireindia.com/blog/wp-content/uploads/2019/06/1_37ABKi4XeHkEWHxlF3LIog.gif)
+![MasterHead](https://i.pinimg.com/originals/70/eb/0b/70eb0b53eb57c91db403928c5d02a19a.gif)
 
 <h1 align="center">Hi, I'm Aarti 👋</h1>
 <h3 align="center">An enthusiastic and dedicated explorer of the Python & Machine Learning cosmos.</h3>
